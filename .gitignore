@@ -1,0 +1,25 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if any tooling is added later)
+node_modules/
+npm-debug.log*
+
+# Local env
+.env
+.env.local
+
+# Build output
+dist/
+out/
+
+# Temp files
+*.tmp
+*.bak
